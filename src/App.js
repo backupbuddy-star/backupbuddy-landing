@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import logo from "./assets/backupbuddy-logo.png"; // Import the renamed logo
 
 export default function App() {
   useEffect(() => {
@@ -13,7 +14,7 @@ export default function App() {
     <div className="min-h-screen bg-gray-100 p-4 sm:p-8">
       <div className="max-w-3xl mx-auto text-center">
         <img
-          src="/logo.svg" // Make sure logo.svg is in your public folder
+          src={logo} // Use imported logo here
           alt="BackupBuddy Logo"
           className="mx-auto h-20 mb-4"
         />
