@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/backupbuddy-landing/static/css/main.904ab7b2.css",
-    "main.js": "/backupbuddy-landing/static/js/main.749888bc.js",
+    "main.js": "/backupbuddy-landing/static/js/main.7d0ccd64.js",
     "static/js/453.856ad82a.chunk.js": "/backupbuddy-landing/static/js/453.856ad82a.chunk.js",
     "index.html": "/backupbuddy-landing/index.html",
     "main.904ab7b2.css.map": "/backupbuddy-landing/static/css/main.904ab7b2.css.map",
-    "main.749888bc.js.map": "/backupbuddy-landing/static/js/main.749888bc.js.map",
+    "main.7d0ccd64.js.map": "/backupbuddy-landing/static/js/main.7d0ccd64.js.map",
     "453.856ad82a.chunk.js.map": "/backupbuddy-landing/static/js/453.856ad82a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.904ab7b2.css",
-    "static/js/main.749888bc.js"
+    "static/js/main.7d0ccd64.js"
   ]
 }
